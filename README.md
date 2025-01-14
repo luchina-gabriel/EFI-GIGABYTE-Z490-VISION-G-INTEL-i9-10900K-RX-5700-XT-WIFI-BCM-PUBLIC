@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte Z490 Vision G, Intel Core i9 10900K, AMD Radeon RX 5700 XT
 
+![Overview](https://github.com/user-attachments/assets/a4da9445-23b6-4308-8ff0-e4fdabaff6da)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.2)
